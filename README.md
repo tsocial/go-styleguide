@@ -4,6 +4,11 @@ This serves as a supplement to
 [Effective Go](https://golang.org/doc/effective_go.html), based on years of
 experience and inspiration/ideas from conference talks.
 
+## How to change a style
+
+- Create a new issue and propose the change
+- Ask other team members and ask them to discuss
+
 ## Table of contents
 
 - [Add context to errors](#add-context-to-errors)
